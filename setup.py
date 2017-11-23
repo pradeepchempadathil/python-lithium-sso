@@ -10,6 +10,6 @@ setup(
    package_dir={"": "src"},
    packages = ["pylithium"],
    py_modules=["pylithium.client"],
-   url="",
+   url="https://github.com/pradeepchempadathil/python-lithium-sso",
    install_requires=["pycryptodomex==3.4.7"]
 )
